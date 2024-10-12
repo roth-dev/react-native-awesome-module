@@ -1,3 +1,5 @@
-export function multiply(a: number, b: number): Promise<number> {
-  return Promise.resolve(a * b);
-}
+import sum from './sum';
+import multiply from './multiply';
+import HelloWorld from './helloworld';
+
+export { multiply, sum, HelloWorld };
