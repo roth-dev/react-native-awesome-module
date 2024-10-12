@@ -8,6 +8,11 @@ this project only purposed
 npm install react-native-awesome-module
 ```
 
+```sh
+yarn add react-native-awesome-module
+
+```
+
 ## Usage
 
 
