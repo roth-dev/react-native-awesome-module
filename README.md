@@ -1,6 +1,6 @@
 # react-native-awesome-module
 
-this project only testing purposed
+This project only testing purposed
 
 ## Installation
 
